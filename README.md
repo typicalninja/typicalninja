@@ -1,16 +1,24 @@
 Hi there 👋,
 
-i am a 15 year old developer, my favorite lang is javascript
+i am a 15 year old developer,
+
+
+author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the discord bot [Axix](https://www.axixbot.tk/)
 
 
 
-[![typicalninja493's github stats](https://github-readme-stats.vercel.app/api?username=typicalninja493&count_private=true&show_border=false&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000)](https://github.com/typicalninja493/typicalninja493)
+[![typicalninja493's github stats](https://github-readme-stats.vercel.app/api?username=typicalninja493&count_private=true&show_border=false&show_icons=true&theme=nightowl)](https://github.com/typicalninja493/typicalninja493)
+
+
+[![Most used coding langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typicalninja493&show_border=false&show_icons=true&theme=nightowl&&langs_count=3)](https://github.com/typicalninja493/typicalninja493)
 
 
 # Npm packages 
 
 
 ##### [Tweets.js](https://www.npmjs.com/package/tweets.js)
+
+##### [Discord-eutils(out dated)](https://www.npmjs.com/package/discord-eutils)
 
 
 # Links 

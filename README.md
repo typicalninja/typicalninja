@@ -28,6 +28,11 @@ author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the 
 
 ##### [Axixbot.tk](https://www.axixbot.tk/)
 
+##### [Stack overflow](https://stackoverflow.com/users/13877563/typical-ninja)
+
+##### [twitter](https://twitter.com/TypicallifeN)
+
+
 
 
 

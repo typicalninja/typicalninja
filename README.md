@@ -26,7 +26,7 @@ author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the 
 
 ##### [Youtube](https://www.youtube.com/channel/UCdOaWkLvMwc4DeVsCnWZQTA)
 
-##### [Axixbot.tk](https://www.axixbot.tk/)
+##### [Axixbot.cf](https://axixbot.cf/)
 
 ##### [Stack overflow](https://stackoverflow.com/users/13877563/typical-ninja)
 
@@ -41,6 +41,8 @@ author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the 
 ##### [Axix bot support](https://discord.gg/qEbfq54bX4)
 
 ##### [Axix development](https://discord.gg/p4CQB3UDCV)
+
+##### [Ninja lands](https://discord.gg/9s52pz6nWX)
 
 
 # Discord Profile

@@ -16,9 +16,11 @@ author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the 
 # Npm packages 
 
 
-##### [Tweets.js](https://www.npmjs.com/package/tweets.js)
+##### [Tweets.js](https://www.npmjs.com/package/tweets.js) - A simple client for twitter api
 
 ##### [Discord-eutils(out dated)](https://www.npmjs.com/package/discord-eutils)
+
+##### [wyr](https://www.npmjs.com/package/wyr) - A simple npm package to get would-your-rather questions from either.io
 
 
 # Links 

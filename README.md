@@ -16,12 +16,13 @@ author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the 
 # Npm packages 
 
 
-##### [Tweets.js](https://www.npmjs.com/package/tweets.js) - A simple client for twitter api
-
-##### [Discord-eutils(out dated)](https://www.npmjs.com/package/discord-eutils)
+##### [Tweets.ts](https://www.npmjs.com/package/tweets.ts) - A easy to use twitter api client written in typescript (continutation of tweets.js)
 
 ##### [wyr](https://www.npmjs.com/package/wyr) - A simple npm package to get would-your-rather questions from either.io
 
+##### [cmd-parser](https://www.npmjs.com/package/@typicalninja21/cmd-parser) - Parses Strings for commands
+
+##### [google-sr](https://www.npmjs.com/package/google-sr) - Yet another library to do google a search, easy and simple
 
 # Links 
 
@@ -29,8 +30,6 @@ author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the 
 ##### [Youtube](https://www.youtube.com/channel/UCdOaWkLvMwc4DeVsCnWZQTA)
 
 ##### [Axixbot.cf](https://axixbot.cf/)
-
-##### [Stack overflow](https://stackoverflow.com/users/13877563/typical-ninja)
 
 ##### [twitter](https://twitter.com/TypicallifeN)
 
@@ -41,8 +40,6 @@ author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the 
 # Discord servers 
 
 ##### [Axix bot support](https://discord.gg/qEbfq54bX4)
-
-##### [Axix development](https://discord.gg/p4CQB3UDCV)
 
 ##### [Ninja lands](https://discord.gg/9s52pz6nWX)
 

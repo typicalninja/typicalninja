@@ -3,14 +3,13 @@ Hi there 👋,
 i am a 15 year old developer,
 
 
-author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the discord bot [Axix](https://www.axixbot.tk/)
-
+author of useless npm packages
 
 
 [![typicalninja493's github stats](https://github-readme-stats.vercel.app/api?username=typicalninja493&count_private=true&show_border=false&show_icons=true&theme=nightowl)](https://github.com/typicalninja493/typicalninja493)
 
 
-[![Most used coding langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typicalninja493&show_border=false&show_icons=true&theme=nightowl&&langs_count=3)](https://github.com/typicalninja493/typicalninja493)
+[![Most used coding langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typicalninja493&show_border=false&show_icons=true&theme=nightowl&&langs_count=4)](https://github.com/typicalninja493/typicalninja493)
 
 
 # Npm packages 
@@ -29,17 +28,12 @@ author of [tweets.js](https://www.npmjs.com/package/tweets.js) and owner of the 
 
 ##### [Youtube](https://www.youtube.com/channel/UCdOaWkLvMwc4DeVsCnWZQTA)
 
-##### [Axixbot.cf](https://axixbot.cf/)
+##### [~Axixbot.cf~](https://axixbot.cf/) (shut down)
 
 ##### [twitter](https://twitter.com/TypicallifeN)
 
 
-
-
-
 # Discord servers 
-
-##### [Axix bot support](https://discord.gg/qEbfq54bX4)
 
 ##### [Ninja lands](https://discord.gg/9s52pz6nWX)
 

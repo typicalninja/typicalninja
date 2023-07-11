@@ -1,44 +1,43 @@
-Hi there 👋,
+# Introduction
 
-i am a 15 year old developer,
+Hey 👋,
 
+I am typicalninja. I am a 17 year old programmer. I currently work with/learning Javascript / typescript (react etc), Node.js, rust.
+All the technologies I work with can be found on my [website](https://typical.gq).
 
-author of useless npm packages
+## Socials
 
-
-[![typicalninja493's github stats](https://github-readme-stats.vercel.app/api?username=typicalninja493&count_private=true&show_border=false&show_icons=true&theme=nightowl)](https://github.com/typicalninja493/typicalninja493)
-
-
-[![Most used coding langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typicalninja493&show_border=false&show_icons=true&theme=nightowl&&langs_count=4)](https://github.com/typicalninja493/typicalninja493)
-
+* [Keybase](https://keybase.io/typicalninja)
+* [Website](https://typical.gq)
+* [Youtube](https://www.youtube.com/@typical_ninja)
+* [Mastodon](https://mastodon.social/@typicalninja)
+* [Community Discord](https://discord.com/invite/HVnGtzMaW4)
+* [Npm](https://www.npmjs.com/~typicalninja21)
 
 # Npm packages 
 
+> Here are some of the public packages i have published to npm
+* More can be found [here](https://www.npmjs.com/~typicalninja21)
 
-##### [Tweets.ts](https://www.npmjs.com/package/tweets.ts) - A easy to use twitter api client written in typescript (continutation of tweets.js)
+* [Tweets.ts](https://www.npmjs.com/package/tweets.ts) - A easy to use twitter api client written in typescript (continutation of tweets.js)  **DEPRECATED**
 
-##### [wyr](https://www.npmjs.com/package/wyr) - A simple npm package to get would-your-rather questions from either.io
+* [wyr](https://www.npmjs.com/package/wyr) - A simple npm package to get would-your-rather questions from either.io
 
-##### [cmd-parser](https://www.npmjs.com/package/@typicalninja21/cmd-parser) - Parses Strings for commands
+* [google-sr](https://www.npmjs.com/package/google-sr) - Yet another library to do google a search, easy and simple
 
-##### [google-sr](https://www.npmjs.com/package/google-sr) - Yet another library to do google a search, easy and simple
+# Other links
 
-# Links 
+##### [~Axixbot.cf~](https://axixbot.cf/) (Reboot pending)
 
+# Contact 
 
-##### [Youtube](https://www.youtube.com/channel/UCdOaWkLvMwc4DeVsCnWZQTA)
-
-##### [~Axixbot.cf~](https://axixbot.cf/) (shut down)
-
-##### [twitter](https://twitter.com/TypicallifeN)
-
-
-# Discord servers 
-
-##### [Ninja lands](https://discord.gg/9s52pz6nWX)
-
+You can contact me by either friending me on discord (username: typicalninja) or sending me a mail at [me@typical.gq](mailto:me@typical.gq)
 
 # Discord Profile
 
 ![Discord](https://discord.c99.nl/widget/theme-3/645592347475836949.png)
+
+# Stats
+
+[![typicalninja493's github stats](https://github-readme-stats.vercel.app/api?username=typicalninja493&count_private=true&show_border=false&show_icons=true&theme=nightowl)](https://github.com/typicalninja493/typicalninja493)
 

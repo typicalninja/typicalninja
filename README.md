@@ -14,16 +14,17 @@ All the technologies I work with can be found on my [website](https://typical.gq
 * [Community Discord](https://discord.com/invite/HVnGtzMaW4)
 * [Npm](https://www.npmjs.com/~typicalninja21)
 
-# Npm packages 
+# Projects
 
-> Here are some of the public packages i have published to npm
-* More can be found [here](https://www.npmjs.com/~typicalninja21)
+* [Download github files](https://github.com/typicalninja493/download-github-files) - Download Individual Directories from github easy and fast
 
 * [Tweets.ts](https://www.npmjs.com/package/tweets.ts) - A easy to use twitter api client written in typescript (continutation of tweets.js)  **DEPRECATED**
 
 * [wyr](https://www.npmjs.com/package/wyr) - A simple npm package to get would-your-rather questions from either.io
 
 * [google-sr](https://www.npmjs.com/package/google-sr) - Yet another library to do google a search, easy and simple
+
+* More npm packages can be found here [here](https://www.npmjs.com/~typicalninja21)
 
 # Other links
 

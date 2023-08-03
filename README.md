@@ -32,7 +32,7 @@ All the technologies I work with can be found on my [website](https://typical.gq
 
 # Contact 
 
-You can contact me by either friending me on discord (username: typicalninja) or sending me a mail at [me@typical.gq](mailto:me@typical.gq)
+You can contact me by sending me a mail at [me@typical.gq](mailto:me@typical.gq) or more options are available [here](https://typical.gq/contact)
 
 # Discord Profile
 

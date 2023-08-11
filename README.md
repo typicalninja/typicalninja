@@ -16,19 +16,16 @@ All the technologies I work with can be found on my [website](https://typical.gq
 
 # Projects
 
-* [Download github files](https://github.com/typicalninja493/download-github-files) - Download Individual Directories from github easy and fast
+* [Download github files](https://github.com/typicalninja/download-github-files) - Download Individual Directories from github easy and fast
 
 * [Tweets.ts](https://www.npmjs.com/package/tweets.ts) - A easy to use twitter api client written in typescript (continutation of tweets.js)  **DEPRECATED**
 
 * [wyr](https://www.npmjs.com/package/wyr) - A simple npm package to get would-your-rather questions from either.io
 
-* [google-sr](https://www.npmjs.com/package/google-sr) - Yet another library to do google a search, easy and simple
+* [google-sr](https://github.com/typicalninja/google-sr) - Simple & Fast Package for scraping Google search results without the need for an API key.
 
 * More npm packages can be found here [here](https://www.npmjs.com/~typicalninja21)
 
-# Other links
-
-##### [~Axixbot.cf~](https://axixbot.cf/) (Reboot pending)
 
 # Contact 
 
@@ -40,5 +37,5 @@ You can contact me by sending me a mail at [me@typical.gq](mailto:me@typical.gq)
 
 # Stats
 
-[![typicalninja493's github stats](https://github-readme-stats.vercel.app/api?username=typicalninja493&count_private=true&show_border=false&show_icons=true&theme=nightowl)](https://github.com/typicalninja493/typicalninja493)
+[![typicalninja github stats](https://github-readme-stats.vercel.app/api?username=typicalninja&count_private=true&show_border=false&show_icons=true&theme=nightowl)](https://github.com/typicalninja)
 

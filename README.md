@@ -11,7 +11,7 @@ All the technologies I work with can be found on my [website](https://typical.gq
 * [Website](https://typical.gq)
 * [Youtube](https://www.youtube.com/@typical_ninja)
 * [Mastodon](https://mastodon.social/@typicalninja)
-* [Community Discord](https://discord.com/invite/HVnGtzMaW4)
+* [Community Discord](https://discord.com/invite/ynwckXS9T2)
 * [Npm](https://www.npmjs.com/~typicalninja21)
 
 # Projects

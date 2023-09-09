@@ -13,6 +13,7 @@ All the technologies I work with can be found on my [website](https://typical.gq
 * [Mastodon](https://mastodon.social/@typicalninja)
 * [Community Discord](https://discord.com/invite/ynwckXS9T2)
 * [Npm](https://www.npmjs.com/~typicalninja21)
+* [Codeberg](https://codeberg.org/typicalninja)
 
 # Projects
 

@@ -23,6 +23,6 @@ I am typicalninja, a 18 year old student learning Javascript / typescript (react
 [![typicalninja github stats](https://github-readme-stats.vercel.app/api?username=typicalninja&count_private=true&show_border=false&show_icons=true&theme=nightowl)](https://github.com/typicalninja)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none;  background-repeat: no-repeat; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.10; background-image: url('https://raw.githubusercontent.com/typicalninja/typicalninja/main/haker-jk.gif');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none;  background-repeat: no-repeat; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; background-attachment: fixed; width: 130vw; opacity: 0.25; background-image: url('https://raw.githubusercontent.com/typicalninja/typicalninja/main/haker-jk.gif');]{x0000}$}
 ```
 

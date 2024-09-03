@@ -8,12 +8,7 @@ I'm typicalninja, an 18-year-old student with a passion for learning. building w
 
 ## Socials
 
-* [Keybase](https://keybase.io/typicalninja)
-* [Youtube](https://www.youtube.com/@typical_ninja)
-* [Mastodon](https://mastodon.social/@typicalninja)
-* [Community Discord](https://discord.com/invite/ynwckXS9T2)
-* [npm](https://www.npmjs.com/~typicalninja21)
-* [Codeberg](https://codeberg.org/typicalninja)
+[![Keybase](https://img.shields.io/badge/keybase-%23000000.svg?style=for-the-badge&logo=keybase)](https://keybase.io/typicalninja) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ynwckXS9T2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@typical_ninja) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@typicalninja) [![Codeberg](https://img.shields.io/badge/Codeberg-%23000000.svg?style=for-the-badge&logo=codeberg)](https://codeberg.org/typicalninja) [![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm)](https://codeberg.org/typicalninja) 
 
 ## Experience
 
